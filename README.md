@@ -35,5 +35,11 @@ Land O' Bones:
 ![Image of the "Land O' Sedimentary" biome.](screenshot/landobones.png)
 
 Crafting:
-ALL RECIPES ARE SHAPELESS
+ALL RECIPES ARE SHAPELESS<br/>
 
+uhhhh<br/>
+![.](screenshot/iforgot.png)
+
+If you place a rock block in the crafting grid you get 4 of the item counterpart<br/>
+![.](screenshot/itemrecipe.png)<br/>
+(If you want to make a rock block put 4 of the same rock in the crafting grid.)
